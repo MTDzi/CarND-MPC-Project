@@ -3,6 +3,12 @@ Self-Driving Car Engineer Nanodegree Program
 
 ---
 
+
+# Writeup
+
+I completed the writeup in the `writeup.ipynb` notebook, because IPython allows for LaTeX
+expressions.
+
 ## Dependencies
 
 * cmake >= 3.5

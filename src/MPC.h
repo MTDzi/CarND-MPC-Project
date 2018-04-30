@@ -6,6 +6,11 @@
 
 using namespace std;
 
+// Defined constants as functions
+double Lf();
+double ref_v();
+double delta_constraint();
+
 class MPC {
  public:
   MPC();
